@@ -2,7 +2,7 @@
 
 - Version: Unity 2021.3.9f1 (LTS)
 
-- Sprites obtained from [https://chrome//dino/](https://chromedino.com/)
+- Sprites obtained and cloned from [https://chrome//dino/](https://chromedino.com/)
 
 - **TRY DINNO🦖 ON** [https://simmer.io/@p42777/dinnnno](https://simmer.io/@p42777/dinnnno)
 
