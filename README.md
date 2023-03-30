@@ -4,6 +4,6 @@
 
 - Sprites obtained from [https://chrome//dino/](https://chromedino.com/)
 
-- [**Download DINNO🦖**](https://github.com/p42777/dinno/archive/refs/heads/main.zip)
+- **TRY DINNO🦖 ON** [https://simmer.io/@p42777/dinnnno](https://simmer.io/@p42777/dinnnno)
 
-- **OR TRY DINNO🦖 ON** [https://simmer.io/@p42777/dinnnno](https://simmer.io/@p42777/dinnnno)
+- **OR DOWNLOAD DINNO🦖 VIA** [main.zip](https://github.com/p42777/dinno/archive/refs/heads/main.zip)
